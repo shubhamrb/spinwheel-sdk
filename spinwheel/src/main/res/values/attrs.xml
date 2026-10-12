@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SpinWheelView">
+        <attr name="swTextColor" format="color" />
+        <attr name="swTextSizeSp" format="dimension" />
+        <attr name="swBorderColor" format="color" />
+        <attr name="swBorderWidth" format="dimension" />
+        <attr name="swSpinDurationMs" format="integer" />
+    </declare-styleable>
+</resources>
