@@ -11,7 +11,7 @@ rewards such as points, coupons or cashback.
 
 ## Install
 
-implementation("com.shubh.spinwheel:spinwheel:0.0.1")
+implementation("com.shubh.spinwheel:spinwheel:*.*.*")
 
 ## Usage
 
