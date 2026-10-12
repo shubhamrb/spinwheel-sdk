@@ -47,7 +47,7 @@ publishing {
             pom {
                 name.set("SpinWheel SDK")
                 description.set("A customizable spin-the-wheel reward view for Android.")
-                url.set("https://github.com/YOUR_USER/spinwheel-sdk")
+                url.set("https://github.com/shubhamrb/spinwheel-sdk")
                 licenses {
                     license {
                         name.set("The Apache License, Version 2.0")
@@ -55,11 +55,11 @@ publishing {
                     }
                 }
                 developers {
-                    developer { id.set("YOUR_USER"); name.set("Your Name"); email.set("you@example.com") }
+                    developer { id.set("shubhamrb"); name.set("Your Name"); email.set("you@example.com") }
                 }
                 scm {
-                    connection.set("scm:git:https://github.com/YOUR_USER/spinwheel-sdk.git")
-                    url.set("https://github.com/YOUR_USER/spinwheel-sdk")
+                    connection.set("scm:git:https://github.com/shubhamrb/spinwheel-sdk.git")
+                    url.set("https://github.com/shubhamrb/spinwheel-sdk")
                 }
             }
         }
