@@ -12,7 +12,7 @@ val sdkVersion = "0.0.1"
 
 android {
     namespace = "com.shubh.spinwheel"
-    compileSdk = 37
+    compileSdk = 35
     defaultConfig {
         minSdk = 21
         consumerProguardFiles("consumer-rules.pro")
